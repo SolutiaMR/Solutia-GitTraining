@@ -8,3 +8,8 @@ h1{
 button {
     background-color: aqua;
 }
+
+.bensClass {
+	color: blue;
+	font-weight: bold;
+}
