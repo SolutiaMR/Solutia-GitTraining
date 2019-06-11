@@ -9,14 +9,10 @@ button {
     background-color: aqua;
 }
 
-
-.bensClass {
-	color: blue;
+.newStyleForStash {
+	color: brown;
+	font-size: 4em;
 	font-weight: bold;
+	border: dotted;
+	border-width: 2em;
 }
-
-.best-activity {
-    font-size: 1.4rem;
-    border-bottom: 1px dotted orangered;
-}
-
