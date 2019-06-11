@@ -8,3 +8,8 @@ h1{
 button {
     background-color: aqua;
 }
+
+.best-activity {
+    font-size: 1.2rem;
+    border-bottom: 1px dotted orangered;
+}
