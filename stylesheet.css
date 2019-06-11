@@ -9,7 +9,14 @@ button {
     background-color: aqua;
 }
 
+
 .bensClass {
 	color: blue;
 	font-weight: bold;
 }
+
+.best-activity {
+    font-size: 1.4rem;
+    border-bottom: 1px dotted orangered;
+}
+
